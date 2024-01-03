@@ -1,0 +1,8 @@
+# web
+requests
+
+# infra
+python-dotenv
+
+# db
+clickhouse_driver
