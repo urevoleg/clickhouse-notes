@@ -1,5 +1,9 @@
 # MV Schema
 
+Процесс преобразования данных выглядит так:
+
+![clickhouse-notes-openweather-mv-process.png](..%2Fimg%2Fclickhouse-notes-openweather-mv-process.png)
+
 Сырьё выглядит так:
 
 ![clickhouse-notes-openweather-raw.png](..%2Fimg%2Fclickhouse-notes-openweather-raw.png)
