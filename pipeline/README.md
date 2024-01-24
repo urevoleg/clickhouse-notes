@@ -11,3 +11,9 @@
 После MV данные готовы к использованию:
 
 ![clickhouse-notes-openweather-after-mv.png](..%2Fimg%2Fclickhouse-notes-openweather-after-mv.png)
+
+# MV Daily Stats
+
+Начнём с результата =)
+
+![clickhouse-notes-openweather-mv-daily.png](..%2Fimg%2Fclickhouse-notes-openweather-mv-daily.png)
