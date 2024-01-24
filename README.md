@@ -8,12 +8,4 @@
 
 ## Внутренний pipeline
 
-### Парсинг данных
-
-...
-
-### Daily stats
-
-...
-
-### Last point
+![clickhouse-notes-openweather-mv-steps.png](img%2Fclickhouse-notes-openweather-mv-steps.png)
