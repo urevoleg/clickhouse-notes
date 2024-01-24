@@ -16,4 +16,10 @@
 
 Начнём с результата =)
 
+Дневная статистика во всей красе:
+
 ![clickhouse-notes-openweather-mv-daily.png](..%2Fimg%2Fclickhouse-notes-openweather-mv-daily.png)
+
+Внутренняя таблица (где хранятся предагрегаты):
+
+![clickhouse-notes-openweather-mv-innertable.png](..%2Fimg%2Fclickhouse-notes-openweather-mv-innertable.png)
