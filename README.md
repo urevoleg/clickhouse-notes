@@ -32,7 +32,8 @@
 5. [Deduplication (official docs)](https://clickhouse.com/docs/en/guides/developer/deduplication)
 6. [MergeTree Family](https://clickhouse.com/docs/ru/engines/table-engines/mergetree-family/mergetree)
 7. [A Practical Introduction to Primary Indexes in ClickHouse](https://clickhouse.com/docs/en/optimize/sparse-primary-indexes)
+8. [Dictionary (official docs)](https://clickhouse.com/docs/en/sql-reference/dictionaries)
 
 Также рекомендую [Clickhouse blog](https://clickhouse.com/blog?category=engineering):
 1. [Using Materialized Views in ClickHouse](https://clickhouse.com/blog/using-materialized-views-in-clickhouse)
-2. 
+2. [Altinity Youtube Channel](https://www.youtube.com/@Altinity)
