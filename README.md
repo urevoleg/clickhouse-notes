@@ -22,6 +22,12 @@
 
 ![clickhouse-notes-openweather-mv-steps.png](img%2Fclickhouse-notes-openweather-mv-steps.png)
 
+## Metabase + Clickhouse
+
+[metabase-clickhouse-driver](https://github.com/ClickHouse/metabase-clickhouse-driver)
+
+![clickhouse-notes-mb-dash.png](img%2Fclickhouse-notes-mb-dash.png)
+
 ## Links
 
 Полезные материалы при изучении:
