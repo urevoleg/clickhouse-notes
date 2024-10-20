@@ -13,6 +13,7 @@
 10. [url table function](https://t.me/double_data/126)
 11. [MATERIALIZED VIEW - 2](https://t.me/double_data/128)
 12. [O - Optimization](https://t.me/double_data/129)
+13. [Последнее слово (но это не точно)](https://t.me/double_data/131) (RMT)
 
 ## Pipeline OpenWeatherMap
 
