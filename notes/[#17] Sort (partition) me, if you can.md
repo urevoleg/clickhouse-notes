@@ -1,4 +1,4 @@
-Превратности ХХХ BY
+💡 Sort (partition) me, if you can
 
 ![clickhouse-notes-partition-by.png](../img/clickhouse-notes-partition-by.png)
 
@@ -118,6 +118,9 @@ ORDER BY (report_date, gender, ....)
 одной и тоже фильтрации WHERE dt = '2025-10-06' and main = 'Clouds' будет прочитано разное кол-во строк:
 
 ![clickhouse-notes-order-by.png](../img/clickhouse-notes-order-by.png)
+
+
+Выбирайте правильное партиции и верный ORDER BY - и эффективные запросы не заставят себя ждать😉
 
 tags:
 - #clickhouse
