@@ -16,11 +16,18 @@
 13. [Последнее слово (но это не точно)](https://t.me/double_data/131) (RMT)
 14. [Как выгрузить из клика: начало](https://t.me/double_data/149)
 15. [Data Overview](https://t.me/double_data/151)
-16. 🧐 Потерянные данные и где их искать [soon]
-17. Идемпотентность вставки [soon]
-18. 🔍 Мониторинг (ProfileEvents) [soon]
-19. 🤯 Ох уже этот memory-limit [soon]
-20. Версионность, которую и не ждали [soon]
+17. Превратности XXX BY 
+18. [♻️ Я тебя сам обновлю]() 
+19. 🧐 Потерянные данные и где их искать [soon]
+20. Идемпотентность вставки [soon]
+21. 🔍 Мониторинг (ProfileEvents) [soon]
+22. 🤯 Ох уже этот memory-limit [soon]
+23. Версионность, которую и не ждали [soon]
+24. Clickhouse monitoring (от запросов до дашбордов) [soon]
+
+## Pipeline OpenWeatherMap - v2
+
+![clickhouse-notes-openweather-pipeline-v2.png](img%2Fclickhouse-notes-openweather-pipeline-v2.png)
 
 ## Pipeline OpenWeatherMap
 
@@ -29,6 +36,7 @@
 ## Внутренний pipeline
 
 ![clickhouse-notes-openweather-mv-steps.png](img%2Fclickhouse-notes-openweather-mv-steps.png)
+
 
 ## Metabase + Clickhouse
 
@@ -47,6 +55,7 @@
 6. [MergeTree Family](https://clickhouse.com/docs/ru/engines/table-engines/mergetree-family/mergetree)
 7. [A Practical Introduction to Primary Indexes in ClickHouse](https://clickhouse.com/docs/en/optimize/sparse-primary-indexes)
 8. [Dictionary (official docs)](https://clickhouse.com/docs/en/sql-reference/dictionaries)
+9. [Оптимизация инсертов в ClickHouse через Kafka Sink-коннекторы (habr)](https://habr.com/ru/companies/magnit/articles/926834/)
 
 Также рекомендую [Clickhouse blog](https://clickhouse.com/blog?category=engineering):
 1. [Using Materialized Views in ClickHouse](https://clickhouse.com/blog/using-materialized-views-in-clickhouse)
