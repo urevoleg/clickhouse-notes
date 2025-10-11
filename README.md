@@ -16,7 +16,7 @@
 13. [Последнее слово (но это не точно)](https://t.me/double_data/131) (RMT)
 14. [Как выгрузить из клика: начало](https://t.me/double_data/149)
 15. [Data Overview](https://t.me/double_data/151)
-17. [Sort (partition) me, if you can](https://t.me/double_data/181)
+17. [Sort (partition) me, if you can](https://t.me/double_data/181) и [часть 2](https://t.me/double_data/182)
 18. [♻️ Я тебя сам обновлю](https://t.me/double_data/179) и [часть 2](https://t.me/double_data/180)
 19. 🧐 Потерянные данные и где их искать [soon]
 20. Идемпотентность вставки [soon]
